@@ -57,7 +57,7 @@ I believe in the power of technology to create positive social change. My work f
 - Location: Berlin, Germany
 - Linkedin: https://www.linkedin.com/in/matteoosio/
 - Instagram: [@osiom](instagram.com/osiom)
-- Are.na: [mos-osio](https://are.na/mos-osio)
+- Are.na: [mos-osio](https://www.are.na/mos-osiom/channels)
 
 ---
 
