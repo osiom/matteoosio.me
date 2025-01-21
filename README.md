@@ -1,6 +1,6 @@
 # Matteo Osio
 
-👋 Data Engineer & Civic Tech Enthusiast based in Berlin, focusing on leveraging technology for social impact and sustainable future.
+👋 Data engineer & civic tech enthusiast based in Berlin, focusing on leveraging technology for social impact and sustainable future.
 
 ## About Me
 
@@ -9,9 +9,9 @@ With over a decade of experience in the data world, I'm passionate about using m
 ## 🚀 Current Projects
 
 ### [cocoex](https://www.cocoex.xyz/)
-Co-founder of a blockchain-based initiative focusing on social change and community engagement through art and technology. Our recent achievements include:
-- Organized an international futures workshop on sustainable tourism with 35 participants from 10 countries
-- Exploring the intersection of blockchain technology and ethical AI development for urban innovation
+Co-founder. With cocoex we focus on social change and community engagement through art, technology and creativity. Our recent achievements include:
+- [Organized](www.cocoex.xyz/horizon001) an international futures workshop [zukunftwerkstatt](https://zukunftswerkstaetten.org/2023/10/27/das-war-das-zukunftswerkstatten-netzwerktreffen-2023/) on sustainable tourism with 35 participants from 10 countries
+- Exploring the intersection of blockchain technology for social and sustainable innovation
 - Building decentralized solutions for community empowerment
 
 ### [civic-tech-airflow](https://github.com/osiom/civic-tech-airflow)
@@ -39,8 +39,6 @@ As an avid music enthusiast and budding sound producer, I'm deeply immersed in B
 
 ### Production
 - Exploring modular synthesis and sound design
-- Learning the fundamentals of electronic music production
-- Experimenting with different synthesizers and digital audio workstations
 - Interested in the intersection of generative music and technology
 
 ## 🌱 Vision
@@ -50,6 +48,8 @@ I believe in the power of technology to create positive social change. My work f
 - Open Source and Open Data principles
 - Sustainable technology solutions
 - Decentralized systems for community empowerment
+
+All of this as an alternative to the [Capitalist Realism](https://en.wikipedia.org/wiki/Capitalist_Realism)
 
 ## 📫 Contact
 
