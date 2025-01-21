@@ -10,7 +10,7 @@ With over a decade of experience in the data world, I'm passionate about using m
 
 ### [cocoex](https://www.cocoex.xyz/)
 Co-founder. With cocoex we focus on social change and community engagement through art, technology and creativity. Our recent achievements include:
-- [Organized](www.cocoex.xyz/horizon001) an international futures workshop ([zukunftwerkstatt])([https://zukunftswerkstaetten.org/2023/10/27/das-war-das-zukunftswerkstatten-netzwerktreffen-2023/](https://de.wikipedia.org/wiki/Zukunftswerkstatt#:~:text=Die%20Zukunftswerkstatt%20ist%20eine%20von,f%C3%BCr%20gesellschaftliche%20Probleme%20zu%20entwickeln.)) on sustainable tourism with 35 participants from 10 countries
+- [Organized](www.cocoex.xyz/horizon001) an international futures workshop ([zukunftwerkstatt])(https://de.wikipedia.org/wiki/Zukunftswerkstatt#:~:text=Die%20Zukunftswerkstatt%20ist%20eine%20von,f%C3%BCr%20gesellschaftliche%20Probleme%20zu%20entwickeln.) on sustainable tourism with 35 participants from 10 countries
 - Exploring the intersection of blockchain technology for social and sustainable innovation
 - Building decentralized solutions for community empowerment
 
