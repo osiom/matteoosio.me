@@ -38,7 +38,7 @@ Co-op of a collective exploring the intersection of art, technology and particip
 - [Organized](https://www.cocoex.xyz/horizon001) international futures workshop on sustainable tourism with participants from 10 countries
 - Investigated AI-driven participatory tools for democratic decision-making and community engagement
 - Prototyped blockchain implementations
-- Developing alternative technological practices
+- Designed and built the [muse-observatory](https://www.muse-observatory.xyz) to observe celestial and terrestrial phenomena in the cocoex universe
 
 ## 🔊 Sound Explorations
 
