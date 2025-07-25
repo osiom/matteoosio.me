@@ -77,7 +77,7 @@ Parallel to tech work, I engage in:
 
 ## 📡 Get in Touch
 
-- 🌐 [mos‑erver.dev](https://mos‑erver.dev)  
+- 🌐 [mos‑erver.dev](https://mos-erver.dev/)  
 - 🔗 [linktr.ee/osiom](https://linktr.ee/osiom)  
 - 📧 matteo.osio1992@protonmail.com  
 - 📍 Berlin, Germany  
