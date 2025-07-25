@@ -7,8 +7,8 @@
 I believe in technology as a tool for liberation—not exploitation. My work explores resilient, human‑centered systems that prioritize:
 
 - **Sustainability**: Minimal‑impact, low‑resource infrastructure  
-- **Self‑hosting**: Owning our digital lives with local‑first, server‑less architecture  
-- **Decentralization**: Mesh networks and federated alternatives over corporate clouds  
+- **Self‑hosting**: Owning our digital lives with local‑first over corporate clouds  
+- **Decentralization**: Mesh networks and federated alternatives as instruments of resiliency
 - **Mutual Aid**: Building tools that serve communities, not capital  
 - **Data Ownership**: Transparency, consent, and sovereignty in information flows  
 
@@ -18,7 +18,7 @@ I believe in technology as a tool for liberation—not exploitation. My work exp
 
 ## 🛠 Work
 
-### 📊 Data Engineering (Professional Backbone)
+### 🪠 Data Engineering (Professional Backbone)
 
 - Built ETL systems and data infrastructure powering 500+ production datasets  
 - 8000+ commits across multi‑team environments in corporate
@@ -48,7 +48,7 @@ This foundation enables my pivot toward **data as empowerment**, where visualiza
 
 ---
 
-## 🚀 Projects
+## 📁 Projects
 
 ### 🌀 [cocoex](https://www.cocoex.xyz/)
 
