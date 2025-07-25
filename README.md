@@ -50,7 +50,7 @@ This foundation enables my pivot toward **data as empowerment**, where visualiza
 
 ## 🚀 Projects
 
-### 🌀 [cocoex.xyz](https://www.cocoex.xyz/)
+### 🌀 [cocoex](https://www.cocoex.xyz/)
 
 A co‑op exploring art, collective intelligence, and speculative futures:
 
@@ -59,7 +59,7 @@ A co‑op exploring art, collective intelligence, and speculative futures:
 - Prototyped blockchain-based systems and DAO architectures focused on decentralized identity, governance, and value flows.
 - Released [muse‑observatory.xyz](https://www.muse‑observatory.xyz): a solar‑powered web tool blending environmental and cosmic data into interactive art and observation  
 
-### 🔮 Re‑incantamento  
+### 🔮 [Re‑incantamento](https://reincantamento.xyz/)
 
 - Collaborative with the independent research collective **REINCANTAMENTO**, focused on philosophy, technology, design and critical research into new imaginaries ([reincantamento.xyz](https://reincantamento.xyz))  
 
