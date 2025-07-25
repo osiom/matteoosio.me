@@ -57,7 +57,7 @@ A co‑op exploring art, collective intelligence, and speculative futures:
 - Facilitated an [international futures workshop](https://www.cocoex.xyz/horizon001) on tourism, ecology
 - Organised artistic events and fundraises
 - Prototyped blockchain-based systems and DAO architectures focused on decentralized identity, governance, and value flows.
-- Released [muse‑observatory.xyz](https://www.muse‑observatory.xyz): a solar‑powered web tool blending environmental and cosmic data into interactive art and observation  
+- Released [muse‑observatory.xyz](https://muse-observatory.xyz/): a solar‑powered web tool blending environmental and cosmic data into interactive art and observation  
 
 ### 🔮 [re‑incantamento](https://reincantamento.xyz/)
 
