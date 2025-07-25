@@ -12,7 +12,7 @@ I believe in technology as a tool for liberation—not exploitation. My work exp
 - **Mutual Aid**: Building tools that serve communities, not capital  
 - **Data Ownership**: Transparency, consent, and sovereignty in information flows  
 
-> Inspired by *Adriano Olivetti’s città dell’uomo*—I see tech as a way to nurture community, not dominate it.
+> Inspired by *[Adriano Olivetti’s città dell’uomo](https://www.archiviostoricolivetti.it/en/prodotto/city-of-man/)*—I see tech as a way to nurture community, not dominate it.
 
 ---
 
