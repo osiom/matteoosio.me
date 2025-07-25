@@ -33,7 +33,7 @@ This foundation enables my pivot toward **data as empowerment**, where visualiza
 
 ### 🌐 Self‑Hosted Systems
 
-- Running [mos‑erver.dev](https://mos‑erver.dev): my personal sovereign infrastructure stack  
+- Running [mos‑erver.dev](https://mos-erver.dev/): my personal sovereign infrastructure stack  
 - Hosting privacy‑first tools, experimental services, and off‑grid backups  
 
 ### 📡 Mesh & LoRa Networks
