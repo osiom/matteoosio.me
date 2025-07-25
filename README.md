@@ -1,6 +1,6 @@
 # Matteo Osio
 
-🪐 Berlin‑based technologist cultivating sustainable, self‑hosted mesh networks for collective autonomy and digital emancipation.
+🪐 Berlin‑based tech worker cultivating sustainable, self‑hosted mesh networks for collective autonomy and digital emancipation.
 
 ## Values
 
