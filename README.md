@@ -1,59 +1,85 @@
 # Matteo Osio
 
-🌐 Data engineer & technologist in Berlin | Creating ethical, sustainable technology that empowers individuals and communities for digital autonomy.
+🌱 Berlin‑based technologist cultivating sustainable, self‑hosted mesh networks for collective autonomy and digital emancipation.
 
-## 🔭 Vision
+## 🌍 Values
 
-Developing technology that challenges centralized, corporate-owned models and rejects cloud computing as a tool of capitalist control. Designing systems that support alternative ways of connecting and creating.
+I believe in technology as a tool for liberation—not exploitation. My work explores resilient, human‑centered systems that prioritize:
 
-- **Independent**: Full ownership of data and technological sovereignty
-- **Decentralized**: Federation and alternatives to centralized control
-- **Sustainable**: Low-impact solutions for a post-carbon world
-- **Open**: Contributing to commons-based knowledge and tools
-- **Community**: Technology that serves human needs, inspired by Adriano Olivetti’s città dell’uomo philosophy
+- **Sustainability**: Minimal‑impact, low‑resource infrastructure  
+- **Self‑hosting**: Owning our digital lives with local‑first, server‑less architecture  
+- **Decentralization**: Mesh networks and federated alternatives over corporate clouds  
+- **Mutual Aid**: Building tools that serve communities, not capital  
+- **Data Ownership**: Transparency, consent, and sovereignty in information flows  
 
-## Technical Work
-
-### 💾 Data Engineering
-
-- ETL pipelines for organizational and civic data workflows
-- 500+ production datasets designed and maintained
-- 7000+ commits across production environments
-- Designed and built an operations research platform supporting over 200 active users
-- Focus on infrastructure design and optimization serving analytical and ML use-cases
-
-### 🔧 Tech Miscellaneous
-
-- **Self-hosting**: Personal infrastructure for digital sovereignty and privacy
-- **Meshtastic & LoRa**: Building resilient, off-grid communication networks
-- **Civic Tech**: Creating transparent data pipelines for community empowerment and open data
-- **Web3 Architecture**: Designing and implementing decentralized blockchain solutions
-- **GIS (Geographic Information Systems)**: Rethinking spaces through human-centric
-
-## Current Projects
-
-### 🌱 [cocoex](https://www.cocoex.xyz/)
-Co-op of a collective exploring the intersection of art, technology and participative democracy:
-
-- [Organized](https://www.cocoex.xyz/horizon001) international futures workshop on sustainable tourism with participants from 10 countries
-- Investigated AI-driven participatory tools for democratic decision-making and community engagement
-- Prototyped blockchain implementations
-- Designed and built the [muse-observatory](https://www.muse-observatory.xyz) to observe celestial and terrestrial phenomena in the cocoex universe
-
-## 🔊 Sound Explorations
-
-Creating and exploring through Berlin's electronic landscape:
-
-- Experimental sound design and modular synthesis
-- Generative audio systems and algorithmic composition
-- Regular communion with [NTS Radio](https://www.nts.live/) or [Keep It Radio](https://keepitradio.com/) transmissions
-
-## 📡 Connect
-
-- 📧 matteo.osio1992@protonmail.com
-- 📍 Berlin, Germany
-- 🔗 https://linktr.ee/osiom
+> Inspired by *Adriano Olivetti’s città dell’uomo*—I see tech as a way to nurture community, not dominate it.
 
 ---
 
-*Technology should be reclaimed—not to serve power, but to empower people and communities.*
+## 🛠 Work & Transition
+
+### 📊 Data Engineering (My Professional Backbone)
+
+- Built ETL systems and data infrastructure powering 500+ production datasets  
+- 7000+ commits across multi‑team environments in public sector and civic tech  
+- Designed platforms supporting 200+ users in analytics, optimization, and ML pipelines  
+- Passion for clean, observable systems and operational resiliency  
+
+This foundation enables my pivot toward **data as empowerment**, where visualization, transparency, and storytelling serve civic engagement and collective agency.
+
+---
+
+## Current Focus
+
+### 🌐 Self‑Hosted Systems
+
+- Running [mos‑erver.dev](https://mos‑erver.dev): my personal sovereign infrastructure stack  
+- Hosting privacy‑first tools, experimental services, and off‑grid backups  
+
+### 📡 Mesh & LoRa Networks
+
+- Developing low‑power long‑range mesh networks with **Meshtastic** for resilient, off‑cloud communication  
+- Exploring peer‑to‑peer protocols, radio beacons, and alternative internet topologies  
+
+### 🧭 Data for Mutual Aid
+
+- Reviving data visualization and data journalism for civic engagement  
+- Prototyping pipelines for **community‑owned datasets**, prioritizing participatory input, auditability and sustainability.
+
+---
+
+## 🚀 Projects
+
+### 🌱 [cocoex.xyz](https://www.cocoex.xyz/)
+
+A co‑op exploring collective intelligence, tech sovereignty, and speculative futures:
+
+- Facilitated an [international futures workshop](https://www.cocoex.xyz/horizon001) on tourism, ecology
+- Prototyped blockchain-based systems and DAO architectures focused on decentralized identity, governance, and value flows.
+- Released [muse‑observatory.xyz](https://www.muse‑observatory.xyz): a solar‑powered web tool blending environmental and cosmic data into interactive art and observation  
+
+### 🔮 Re‑incantamento  
+
+- Collaborative with the independent research collective **REINCANTAMENTO**, focused on philosophy, technology, design and critical research into new imaginaries ([reincantamento.xyz](https://reincantamento.xyz))  
+
+
+---
+
+## 🎧 Sound & Signal
+
+Parallel to tech work, I engage in:
+
+- Modular synthesis, field recording, and algorithmic audio systems  
+- Curated listening sessions in bars across Berlin, exploring collective listening and experimental sound  
+- Exploration via Berlin’s audio cultures and digital radio such as NTS and Keep It Radio  
+
+---
+
+## 📡 Get in Touch
+
+- 🌐 [mos‑erver.dev](https://mos‑erver.dev)  
+- 🔗 [linktr.ee/osiom](https://linktr.ee/osiom)  
+- 📧 matteo.osio1992@protonmail.com  
+- 📍 Berlin, Germany  
+
+---
