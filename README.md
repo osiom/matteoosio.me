@@ -69,10 +69,10 @@ A co‑op exploring art, collective intelligence, and speculative futures:
 
 Parallel to tech work, I engage in:
 
-- Modular synthesis, field recording, and algorithmic audio systems  
 - Curated listening sessions in bars across Berlin, exploring collective listening and experimental sound  
-- Exploration via Berlin’s audio cultures and digital radio such as NTS and Keep It Radio  
-
+- Exploration via Berlin’s audio cultures and digital radio such as NTS and Keep It Radio
+- Digital synth
+  
 ---
 
 ## 📡 Get in Touch
