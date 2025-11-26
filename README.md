@@ -1,85 +1,57 @@
 # Matteo Osio
 
-🪐 Berlin‑based tech worker cultivating sustainable, self‑hosted mesh networks for collective autonomy and digital emancipation.
+Technologist & data engineer in Berlin | Passionate about open source, peer-to-peer networks, and technology that empowers individuals and communities for digital autonomy.
 
-## Values
+## 🔭 Vision
 
-I believe in technology as a tool for liberation—not exploitation. My work explores resilient, human‑centered systems that prioritize:
+Technology obsessed by nature — fascinated by everything from low-level systems to distributed architectures. Developing solutions that challenge centralized, corporate-owned models and reject cloud computing as a tool of control. Designing systems that support alternative ways of connecting and creating.
 
-- **Sustainability**: Minimal‑impact, low‑resource infrastructure  
-- **Self‑hosting**: Owning our digital lives with local‑first over corporate clouds  
-- **Decentralization**: Mesh networks and federated alternatives as instruments of resiliency
-- **Mutual Aid**: Building tools that serve communities, not capital  
-- **Data Ownership**: Transparency, consent, and sovereignty in information flows  
+- **Open Source**: Contributing to commons-based knowledge and tools
+- **Decentralized**: P2P networks, federation, and alternatives to centralized control
+- **Independent**: Full ownership of data and technological sovereignty
+- **Sustainable**: Low-impact solutions for a post-carbon world
+- **Community**: Technology that serves human needs
 
-> Inspired by *[Adriano Olivetti’s città dell’uomo](https://www.archiviostoricolivetti.it/en/prodotto/city-of-man/)*—I see tech as a way to nurture community, not dominate it.
+## 💾 Professional Work
 
----
+Day job: wrangling distributed systems and making machines learn faster. Spent years optimizing ML/AI pipelines with Apache Spark — squeezing performance out of massive parallel processing. Built data infrastructure from the ground up, mass-designed ETL pipelines, and shipped an operations research platform used by 200+ people.
 
-## 🛠 Work
+## 🔧 Tech Explorations
 
-### 🪠 Data Engineering (Professional Backbone)
+- **Self-hosting**: Designing infrastructures for digital sovereignty, privacy, and tech emancipation
+- **P2P Networks**: Building and exploring decentralized communication systems
+- **Meshtastic & LoRa**: Resilient, off-grid communication networks
+- **Open Data & Digital Archives**: Cultural heritage digitization and open data pipelines contributor
 
-- Built ETL systems and data infrastructure powering 500+ production datasets  
-- 8000+ commits across multi‑team environments in corporate
-- Designed platforms supporting 200+ users in analytics, operation research, and ML pipelines  
-- Passion for clean, sustainable and observable systems
+## 🌱 Current Projects
 
-This foundation enables my pivot toward **data as empowerment**, where visualization, transparency, and storytelling serve civic engagement and collective agency.
+### [cocoex](https://www.cocoex.xyz/)
+Co-op exploring art, technology, and participative democracy. [Organized](https://www.cocoex.xyz/horizon001) an international futures workshop on sustainable tourism with participants from 10 countries. Currently using AI/ML tools to reimagine democratic participation through Zukunftswerkstatt workshops and experimenting with voting DAO systems for collective decision-making.
 
----
+### [re-incantamento](https://reincantamento.xyz/)
+Research & publishing group exploring technology, radical imagination, and rituality — bridging Berlin, Turin, and Venice.
 
-## Current Focus
+## 🔊 Sound Explorations
 
-### 🌐 Self‑Hosted Systems
+Creating and exploring through Berlin's electronic landscape:
 
-- Running [mos‑erver.dev](https://mos-erver.dev/): my personal sovereign infrastructure stack  
-- Hosting privacy‑first tools, experimental services, and off‑grid backups  
+- Experimental sound design and modular synthesis
+- Generative audio systems and algorithmic composition
+- Regular communion with [NTS Radio](https://www.nts.live/) or [Keep It Radio](https://keepitradio.com/) transmissions
 
-### 📡 Mesh & LoRa Networks
+## 📡 Connect
 
-- Developing low‑power long‑range mesh networks with **Meshtastic** for resilient, off‑cloud communication  
-- Exploring peer‑to‑peer protocols, radio beacons, and alternative internet topologies  
+- 📧 matteo.osio1992@protonmail.com
+- 📍 Berlin, Germany
 
-### 🌱 Data for Mutual Aid
+### Elsewhere
 
-- Reviving data visualization and data journalism for civic engagement  
-- Prototyping pipelines for **community‑owned datasets**, prioritizing participatory input, auditability and sustainability.
-
----
-
-## 📁 Projects
-
-### 🌀 [cocoex](https://www.cocoex.xyz/)
-
-A co‑op exploring art, collective intelligence, and speculative futures:
-
-- Facilitated an [international futures workshop](https://www.cocoex.xyz/horizon001) on tourism, ecology
-- Organised artistic events and fundraises
-- Prototyped blockchain-based systems and DAO architectures focused on decentralized identity, governance, and value flows.
-- Released [muse‑observatory.xyz](https://muse-observatory.xyz/): a solar‑powered web tool blending environmental and cosmic data into interactive art and observation  
-
-### 🔮 [re‑incantamento](https://reincantamento.xyz/)
-
-- Collaborative with the independent research collective **REINCANTAMENTO**, focused on philosophy, technology, design and critical research into new imaginaries ([reincantamento.xyz](https://reincantamento.xyz))  
+- [GitHub](https://github.com/osiom)
+- [Codeberg](https://codeberg.org/osiom)
+- [Substack](https://substack.com/@mosio)
+- [Are.na](https://www.are.na/osiom)
+- [Mastodon](https://mastodon.social/@osiom)
 
 ---
 
-## 🎧 Sound & Signal
-
-Parallel to tech work, I engage in:
-
-- Curated listening sessions in bars across Berlin, exploring collective listening and experimental sound  
-- Exploration via Berlin’s audio cultures and digital radio such as NTS and Keep It Radio
-- Digital synth
-  
----
-
-## 📡 Get in Touch
-
-- 🌐 [mos‑erver.dev](https://mos-erver.dev/)  
-- 🔗 [linktr.ee/osiom](https://linktr.ee/osiom)  
-- 📧 matteo.osio1992@protonmail.com  
-- 📍 Berlin, Germany  
-
----
+*Technology should be reclaimed—not to serve power, but to empower people and communities.*
