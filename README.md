@@ -26,7 +26,7 @@ Day job: wrangling distributed systems and making machines learn faster. Spent y
 ## 🌱 Current Projects
 
 ### [cocoex](https://www.cocoex.xyz/)
-Co-op exploring art, technology, and participative democracy. [Organized](https://www.cocoex.xyz/horizon001) an international futures workshop on sustainable tourism with participants from 10 countries. Currently using AI/ML tools to reimagine democratic participation through Zukunftswerkstatt workshops and experimenting with voting DAO systems for collective decision-making.
+Co-op exploring art, technology, and participative democracy. [Organized](https://www.cocoex.xyz/horizon001) an international futures workshop on sustainable tourism with participants from 10 countries. Currently using AI/ML tools to reimagine democratic participation through [Zukunftswerkstatt workshops](https://en.wikipedia.org/wiki/Future_workshop) and experimenting with voting DAO systems for collective decision-making.
 
 ### [re-incantamento](https://reincantamento.xyz/)
 Research & publishing group exploring technology, radical imagination, and rituality — bridging Berlin, Turin, and Venice.
