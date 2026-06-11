@@ -14,7 +14,7 @@ Technology obsessed by nature — fascinated by everything from low-level system
 
 ## 💾 Professional Work
 
-Day job: wrangling distributed systems and making machines learn faster. Spent years optimizing ML/AI pipelines with Apache Spark — squeezing performance out of massive parallel processing. Built data infrastructure from the ground up, mass-designed ETL pipelines, and shipped an operations research platform used by 200+ people.
+Day job: wrangling distributed systems and making machines learn faster. Spent years optimizing and developing ML pipelines with Apache Spark — squeezing performance out of massive parallel processing. Built data infrastructure from the ground up, mass-designed ETL pipelines, and shipped an operations research platform used by 200+ people.
 
 ## 🔧 Tech Explorations
 
@@ -22,22 +22,23 @@ Day job: wrangling distributed systems and making machines learn faster. Spent y
 - **P2P Networks**: Building and exploring decentralized communication systems
 - **Meshtastic & LoRa**: Resilient, off-grid communication networks
 - **Open Data & Digital Archives**: Cultural heritage digitization and open data pipelines contributor
+- **Embedding coding**: On device for custom automation or other artifacts
 
 ## 🌱 Current Projects
 
 ### [cocoex](https://www.cocoex.xyz/)
-Co-op exploring art, technology, and participative democracy. [Organized](https://www.cocoex.xyz/horizon001) an international futures workshop on sustainable tourism with participants from 10 countries. Currently using AI/ML tools to reimagine democratic participation through [Zukunftswerkstatt workshops](https://en.wikipedia.org/wiki/Future_workshop) and experimenting with voting DAO systems for collective decision-making.
+Co-op exploring art, technology, and participative democracy. [Organizing](https://www.cocoex.xyz/horizon001) international futures workshops. Currently using ML tools to reimagine democratic participation through [Zukunftswerkstatt workshops](https://en.wikipedia.org/wiki/Future_workshop) and experimenting with voting DAO systems for collective decision-making.
 
 ### [re-incantamento](https://reincantamento.xyz/)
 Research & publishing group exploring technology, radical imagination, and rituality — bridging Berlin, Turin, and Venice.
 
-## 🔊 Sound Explorations
+## 📺 Video Explorations
 
-Creating and exploring through Berlin's electronic landscape:
+Exploring analog aesthetics through video manipulation and synthesis:
 
-- Experimental sound design and modular synthesis
-- Generative audio systems and algorithmic composition
-- Regular communion with [NTS Radio](https://www.nts.live/) or [Keep It Radio](https://keepitradio.com/) transmissions
+- Developed and maintained a [web-based video synthesis](https://osiom.codeberg.page/analog-synth-video/) with custom generative tools
+- Analog video mixing and feedback loops using CRT displays
+- Creative glitching and circuit-bending approaches to video feedback
 
 ## 📡 Connect
 
