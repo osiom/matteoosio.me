@@ -57,4 +57,4 @@ Exploring analog aesthetics through video manipulation and synthesis:
 ---
 🔗 [osiom.space](https://osiom.space)
 
-*Technology should be reclaimed—not to serve power, but to empower people and communities.*
+*Technology should be reclaimed!
