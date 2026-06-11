@@ -19,8 +19,8 @@ Day job: wrangling distributed systems and making machines learn faster. Spent y
 ## 🔧 Tech Explorations
 
 - **Self-hosting**: Designing infrastructures for digital sovereignty, privacy, and tech emancipation
-- **P2P Networks**: Building and exploring decentralized communication systems
-- **Meshtastic & LoRa**: Resilient, off-grid communication networks
+- **P2P systems**: Building and exploring decentralized communication systems
+- **Long-Range Networks**: Resilient, off-grid communication networks
 - **Open Data & Digital Archives**: Cultural heritage digitization and open data pipelines contributor
 - **Embedding coding**: On device for custom automation or other artifacts
 - **Web dev** on-demand ;)
