@@ -23,6 +23,7 @@ Day job: wrangling distributed systems and making machines learn faster. Spent y
 - **Meshtastic & LoRa**: Resilient, off-grid communication networks
 - **Open Data & Digital Archives**: Cultural heritage digitization and open data pipelines contributor
 - **Embedding coding**: On device for custom automation or other artifacts
+- **Web dev** on-demand ;)
 
 ## 🌱 Current Projects
 
