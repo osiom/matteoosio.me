@@ -1,6 +1,6 @@
 # Matteo Osio
 
-Technologist & ml engineer in Berlin | Passionate about open source, peer-to-peer networks, and technology that empowers individuals and communities for digital autonomy.
+Technologist & ML engineer in Berlin | Passionate about open source, peer-to-peer networks, and technology that empowers individuals and communities for digital autonomy.
 
 ## 🔭 Vision
 
